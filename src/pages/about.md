@@ -17,7 +17,7 @@ sections:
     bulletpoints:
       - title: The Goal
         description: "Empower individuals with the knowledge and tools to make more informed decisions on their health.\_\n"
-        image: images/nan_talk.jpg
+        image: images/serious-rays-e1545794744281-225x300.jpg
       - title: Services
         description: "1.  Wellness & Herb showcases\n\n2.   Custom Elixirs & Bulk Deliveries\n\n3.   Personal Healing protocols\n\n4.   Emotional wellness consultations\_\n\n5.  Food Safety/Sanitation audits\n"
         image: images/team.jpg
