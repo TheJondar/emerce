@@ -6,13 +6,12 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: MOVERs Education & MOVERs Elixir
-    subtitle: >-
-      Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
-      from Québec City. Planty is a theme we built for
-      [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder. To
-      enable e-commerce on Planty, you’ll need to [sign up for
-      Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-      required.
+    subtitle: >
+      **Our mission:**
+
+
+      Improve the health of our population with holistic health beverages men
+      woman & children can enjoy daily
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
