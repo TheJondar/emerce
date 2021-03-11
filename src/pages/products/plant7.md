@@ -1,7 +1,7 @@
 ---
 id: '7'
 price: '18.90'
-title: Sed consectetur
+title: 2 Herb Custom Blend
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/Elixirs-7-400x400.jpg
 default_original_image: images/plant7-lg.jpg
