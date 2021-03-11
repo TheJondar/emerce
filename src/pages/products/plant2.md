@@ -1,7 +1,7 @@
 ---
 id: '2'
 price: '99.00'
-title: Integer porta
+title: 2 Herb Custom Blend
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/Elixirs-7-400x400.jpg
 default_original_image: images/plant2-lg.jpg
