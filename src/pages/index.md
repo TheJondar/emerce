@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/Movers_Logo large.png
+    background_image: images/leaf-light-grey.svg
     background_image_opacity: 65
     content: >
       # MOVERs
