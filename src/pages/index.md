@@ -54,7 +54,7 @@ seo:
         MOVERs Elixir
       keyName: property
     - name: 'og:image'
-      value: images/header.jpg
+      value: /images/Movers_Logo%20large.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
