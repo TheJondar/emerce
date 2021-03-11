@@ -1,7 +1,7 @@
 ---
 id: '4'
 price: '24.99'
-title: Cras molestie
+title: Mini Elixir
 description: Maecenas pretium blandit ex id lobortis.
 default_thumbnail_image: images/16oz-400x400.jpg
 default_original_image: images/plant4-lg.jpg
