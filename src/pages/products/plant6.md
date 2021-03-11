@@ -1,6 +1,6 @@
 ---
 id: '6'
-price: '100.00'
+price: '109.99'
 title: Ladyblend Elixir
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/Elixir-photo-5-400x400.jpg
