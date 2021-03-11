@@ -1,7 +1,7 @@
 ---
 id: '9'
 price: '400.00'
-title: Fusce sagittis
+title: Tonic Goji
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
 default_thumbnail_image: images/choc-gold-1-400x400.jpg
 default_original_image: images/plant9-lg.jpg
