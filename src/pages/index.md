@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/leaf.svg
-    background_image_opacity: 45
+    background_image_opacity: 15
     content: >
       # MOVERs
 
