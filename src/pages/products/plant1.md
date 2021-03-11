@@ -1,6 +1,6 @@
 ---
 id: '1'
-price: '49.40'
+price: '25.99'
 title: Mini Elixir
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
