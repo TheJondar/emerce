@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: wJO
 page_css_class: lorem-ipsum
 white_header: false
 sections:
