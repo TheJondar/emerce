@@ -1,6 +1,6 @@
 ---
 id: '7'
-price: $124.99
+price: '124.99'
 title: 2 Herb Custom Blend
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/Elixirs-7-400x400.jpg
