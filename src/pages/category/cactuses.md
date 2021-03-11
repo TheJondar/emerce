@@ -1,5 +1,4 @@
 ---
-title: sample size
 order: 2
 seo:
   title: Cactuses
