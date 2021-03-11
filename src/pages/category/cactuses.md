@@ -1,5 +1,5 @@
 ---
-title: Cactuses
+title: CactusesElixir
 order: 2
 seo:
   title: Cactuses
