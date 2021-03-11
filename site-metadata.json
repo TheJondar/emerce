@@ -46,6 +46,13 @@
             "style": "primary",
             "arrow": false,
             "type": "action"
+        },
+        {
+            "title": "lorem-ipsum",
+            "url": "#",
+            "style": "primary",
+            "arrow": false,
+            "type": "action"
         }
     ],
     "title": "MOVERs",
