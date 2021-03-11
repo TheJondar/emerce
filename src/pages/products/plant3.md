@@ -1,6 +1,6 @@
 ---
 id: '3'
-price: $129.99
+price: '129.99'
 title: Golden Age Elixir
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/neat-eucalyptus.jpg
