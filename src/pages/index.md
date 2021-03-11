@@ -6,13 +6,8 @@ sections:
     section_id: hero_section
     background_image: images/leaf.svg
     background_image_opacity: 15
-    content: >
-      # MOVERs
-
-
-      ###### MOVERs Elixirs is a unique holistic health beverage that blends
-      healing herbs, vitamins, juice and subtle energy to enhance health on
-      multiple levels.
+    content: |
+      # **MOVERs**
     actions:
       - title: See all items
         url: /store
