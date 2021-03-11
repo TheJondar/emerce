@@ -7,7 +7,7 @@ sections:
     background_image: /images/leaf-light-grey.svg
     headline: MOVERs Education & MOVERs Elixir
     subtitle: >
-      **Our mission:**
+      ### **Our mission:**
 
 
       Improve the health of our population with holistic health beverages men
