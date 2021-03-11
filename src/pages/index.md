@@ -47,7 +47,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Planty Theme
+      value: MOVERs
       keyName: property
     - name: 'og:description'
       value: The preview of the Planty theme
