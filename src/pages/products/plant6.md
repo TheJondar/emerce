@@ -1,7 +1,7 @@
 ---
 id: '6'
 price: '100.00'
-title: Donec finibus
+title: Ladyblend Elixir
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/Elixir-photo-5-400x400.jpg
 default_original_image: images/plant6-lg.jpg
