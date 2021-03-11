@@ -1,5 +1,5 @@
 ---
-title: Heavy Menstrual
+title: 64oz
 order: 1
 seo:
   title: Big plants
