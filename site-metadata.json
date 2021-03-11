@@ -1,7 +1,7 @@
 {
     "favicon": "images/Movers_Logo.png",
     "logo_dark": "images/Movers_Logo.png",
-    "logo_light": "images/Movers_Logo.png",
+    "logo_light": "images/Movers_Logo large.png",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
     "bg_image_primary": "/images/header.jpg",
     "bg_image_primary_opacity": 60,
