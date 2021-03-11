@@ -50,7 +50,8 @@ seo:
       value: MOVERs
       keyName: property
     - name: 'og:description'
-      value: The preview of the Planty theme
+      value: |
+        MOVERs Elixir
       keyName: property
     - name: 'og:image'
       value: images/header.jpg
