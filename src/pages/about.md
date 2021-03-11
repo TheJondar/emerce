@@ -19,12 +19,7 @@ sections:
         description: "Empower individuals with the knowledge and tools to make more informed decisions on their health.\_\n"
         image: images/nan_talk.jpg
       - title: Services
-        description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
+        description: "### Wellness & Herb showcases\n\n### Custom Elixirs & Bulk Deliveries\n\n### Personal Healing protocols\n\n### Emotional wellness consultations\_\n\n### Food Safety/Sanitation audits&#xA;&#xA;\n"
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
