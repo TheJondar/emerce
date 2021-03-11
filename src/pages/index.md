@@ -40,7 +40,8 @@ sections:
           recruits.
 seo:
   title: MOVERs
-  description: The preview of the Planty theme
+  description: |
+    MOVERs Elixirs
   extra:
     - name: 'og:type'
       value: website
