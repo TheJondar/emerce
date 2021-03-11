@@ -1,5 +1,5 @@
 ---
-title: Same size
+title: Heavy Menstrual
 order: 1
 seo:
   title: Big plants
