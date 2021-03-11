@@ -4,7 +4,7 @@
     "logo_light": "images/Movers_Logo large.png",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
     "bg_image_primary": "images/leaf-light-grey.svg",
-    "bg_image_primary_opacity": 60,
+    "bg_image_primary_opacity": 15,
     "bg_image_secondary": "/images/leaf-light-grey.svg",
     "bg_image_product": "/images/leaf.svg",
     "snipcart_api_key": "YWNiMzBmMzYtNjZhZC00YmI5LTllZDUtNTM1MjQ1N2ZhMWU5NjM2OTI2NzAxODkyMDIyMjcz",
