@@ -5,7 +5,7 @@ white_header: false
 sections:
   - section_id: lorem-ipsum
     questions:
-      - question: lorem-ipsum
+      - question: Wholesale
         answer: >-
           ## Lorem ipsum
 
