@@ -21,17 +21,6 @@ sections:
       - title: Services
         description: "1.  Wellness & Herb showcases\n\n2.   Custom Elixirs & Bulk Deliveries\n\n3.   Personal Healing protocols\n\n4.   Emotional wellness consultations\_\n\n5.  Food Safety/Sanitation audits\n"
         image: images/team.jpg
-  - type: promotion_section
-    section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/promo.jpg
-    background_image: /images/leaf.svg
-    cta:
-      title: Discover
-      url: /store
-      style: primary
-      arrow: true
 seo:
   title: About
   description: This is the about page
