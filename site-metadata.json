@@ -31,7 +31,7 @@
         {
             "title": "Wholesale",
             "url": "#",
-            "style": "secondary",
+            "style": "primary",
             "arrow": false,
             "type": "action"
         },
