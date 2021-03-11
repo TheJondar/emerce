@@ -15,7 +15,7 @@ sections:
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
-      - title: 'The Goal:'
+      - title: The Goal
         description: "Empower individuals with the knowledge and tools to make more informed decisions on their health.\_\n"
         image: images/nan_talk.jpg
       - title: We think plants are the future
