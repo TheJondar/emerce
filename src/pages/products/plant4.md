@@ -1,6 +1,6 @@
 ---
 id: '4'
-price: $25.99
+price: '25.99'
 title: Mini Elixir
 description: Maecenas pretium blandit ex id lobortis.
 default_thumbnail_image: images/16oz-400x400.jpg
