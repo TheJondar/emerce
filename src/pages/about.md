@@ -19,7 +19,7 @@ sections:
         description: "Empower individuals with the knowledge and tools to make more informed decisions on their health.\_\n"
         image: images/nan_talk.jpg
       - title: Services
-        description: "### Wellness & Herb showcases\n\n### Custom Elixirs & Bulk Deliveries\n\n### Personal Healing protocols\n\n### Emotional wellness consultations\_\n\n### Food Safety/Sanitation audits&#xA;&#xA;\n"
+        description: "*   Wellness & Herb showcases\n\n<!---->\n\n*   Custom Elixirs & Bulk Deliveries\n\n<!---->\n\n*   Personal Healing protocols\n\n<!---->\n\n*   Emotional wellness consultations\_\n\n<!---->\n\n*   Food Safety/Sanitation audits\n\n"
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
